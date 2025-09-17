@@ -14,7 +14,7 @@
 9. Copy your sharable link
 
 ## modify the code
-1. Chnage SSID and passwd in lines 1 and 2 to your network's SSID and passwd
+1. Change SSID and passwd in lines 1 and 2 to your network's SSID and passwd
 2. To select pose instead of image just replace pose and image in the lines 635 and 636
 3. Paste the sharable link in line 642. REPLACE ONLY THE LINK
 
